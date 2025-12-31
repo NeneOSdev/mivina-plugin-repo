@@ -26,3 +26,4 @@ def minit_minit91(args, stdin):
 
 def init():
     register_command("mt91", minit_minit91)
+    #ini
