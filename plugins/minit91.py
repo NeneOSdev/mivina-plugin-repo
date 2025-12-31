@@ -1,3 +1,4 @@
+from mivina_api import register_command 
 #decoding things
 enc = {'a':'1','b':'a','c':'7','d':'*','e':'2','f':'|','g':'+','h':'q',
 'i':'i','j':'s','k':'<','l':'z', 'm':'?','n':'N','o':'c', 'p':'~', 
