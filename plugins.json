@@ -1,0 +1,6 @@
+{
+    "minit91": {
+        "file": "plugins/minit91",
+        "description": "A minit91 encrypter for Mivina."
+    }
+}
