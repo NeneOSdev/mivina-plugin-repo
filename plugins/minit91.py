@@ -15,7 +15,6 @@ def decrypt(cipher):
     return ''.join(dec.get(ch, '?') for ch in cipher)
 
 def minit_minit91(args, stdin):
-    import minit91
     mode, *text = line.split(maxsplit=1)
     text = text[0] if text else ""
     text = text.lower()
